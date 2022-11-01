@@ -1,9 +1,7 @@
 ## timetable
-
 > lang: ru 
 > group: P3131
 > day: Thursday 
-
 ## Lessons:
 #### lesson1:
     time: 08:20-09:50 
